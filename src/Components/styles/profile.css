@@ -1,0 +1,60 @@
+/* 
+.figure{ 
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.figure img {
+    border: 2px solid #fff;
+  width: 100%;
+    border-radius: 50%;
+
+} */
+
+.app_head{
+  text-align: center;
+  margin: 20px 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fetchbtn{
+
+  display: flex;
+  justify-content: center ;
+
+}
+.loader_spinner{
+  display: flex;
+  justify-content: center ;
+  margin: 30vh 0;
+}
+
+.profile_id{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.figure-img{
+  border: 2px solid whitesmoke;
+  border-radius: 50%;
+}
+
+.figure-caption{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px !important;
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 992px) {
+
+  .profile_id_info{
+    padding: 20px 0 0 0;
+  }
+
+}
