@@ -49,7 +49,7 @@ const App = () => {
       <Header/>
 
       <Container className="app_head">
-          <h2> Generate Random User </h2>
+          <h2> Generate Random Profile </h2>
       </Container>
 
       <FetchButton isActive={activeUser} clicked={onClickHandler} />
