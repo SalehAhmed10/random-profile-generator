@@ -13,7 +13,7 @@ function Header() {
 
             <div className="icons col-6">
             
-            <a href="https://randomuser.me/" target="_blank" rel="noopener noreferrer">    <span> <small>randomuser.me </small>  </span> </a>  <img src='/assets/api.png' alt="api credit"/> 
+            <a href="https://randomuser.me/" target="_blank" rel="noopener noreferrer">    <span> <small>randomuser.me </small>  </span> </a>  <img src='/assets/api.png' alt="api"/> 
                 
              </div> 
         </div>
